@@ -1,4 +1,4 @@
 # santosh-demo1
 This is my first git repository.
 <br>
-Author- Santosh Majhi
+Author- Bikash Majhi
